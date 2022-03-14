@@ -1,0 +1,24 @@
+{
+  "name": "practical-webpack",
+  "version": "1.0.0",
+  "description": "Webpack test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzaleta/practical-webpack.git"
+  },
+  "keywords": [],
+  "author": "Daniel Zaleta <zaletadaniel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danzaleta/practical-webpack/issues"
+  },
+  "homepage": "https://github.com/danzaleta/practical-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
