@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/danzaleta/practical-webpack.git"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "webpack",
+    "portfolio"
+  ],
   "author": "Daniel Zaleta <zaletadaniel@gmail.com>",
   "license": "MIT",
   "bugs": {

@@ -1,6 +1,7 @@
-import sum from './utils/sum.js';
+import Template from './templates/Template.js';
+console.log('hola');
 
-const test = 'My webpack test';
-
-console.log(test);
-console.log(sum(2,2));
+(async function App() {
+  const main = null || document.getElementById('main');
+  main.innerHTML = await Template();
+})();
